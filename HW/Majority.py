@@ -1,5 +1,4 @@
 def find_majority(arry, number):
-
     if len(arry) <= 1:
         if arry[0] == number:
             return 1
