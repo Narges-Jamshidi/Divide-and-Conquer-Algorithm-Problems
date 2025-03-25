@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae8e02aa-f12b-4d6d-be56-02928916fe2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HW/Median.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/Majority.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/Majority.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/strassen-matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/strassen-matrix.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2uikfOY0IQm8f5rKmIrLClMtACN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,6 +37,7 @@
     "Python.Kadan-MaximumSum.executor": "Run",
     "Python.Kaden-MaximumSum.executor": "Run",
     "Python.Majority.executor": "Run",
+    "Python.Median.executor": "Run",
     "Python.strassen-matrix.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -65,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742738885176</updated>
-      <workItem from="1742738886708" duration="11915000" />
+      <workItem from="1742738886708" duration="12532000" />
+      <workItem from="1742927054974" duration="2338000" />
     </task>
     <servers />
   </component>
@@ -76,6 +77,7 @@
     <SUITE FILE_PATH="coverage/divide_and_conquer$Kaden_MaximumSum.coverage" NAME="Kaden-MaximumSum Coverage Results" MODIFIED="1742739702722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
     <SUITE FILE_PATH="coverage/divide_and_conquer$Kadan_MaximumSum.coverage" NAME="Kadan-MaximumSum Coverage Results" MODIFIED="1742749504468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
     <SUITE FILE_PATH="coverage/divide_and_conquer$strassen_matrix.coverage" NAME="strassen-matrix Coverage Results" MODIFIED="1742760291510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
+    <SUITE FILE_PATH="coverage/divide_and_conquer$Median.coverage" NAME="Median Coverage Results" MODIFIED="1742929401856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
     <SUITE FILE_PATH="coverage/divide_and_conquer$Majority.coverage" NAME="Majority Coverage Results" MODIFIED="1742759182414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
   </component>
 </project>
