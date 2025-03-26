@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae8e02aa-f12b-4d6d-be56-02928916fe2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HW/Maximum-Product.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/Maximum-Product.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW/Maximum-Product.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,23 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Kadan-MaximumSum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Kaden-MaximumSum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Majority.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Median.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strassen-matrix.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Kadan-MaximumSum.executor": "Run",
+    "Python.Kaden-MaximumSum.executor": "Run",
+    "Python.Majority.executor": "Run",
+    "Python.Maximum-Product.executor": "Run",
+    "Python.Median.executor": "Run",
+    "Python.strassen-matrix.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1742738885176</updated>
       <workItem from="1742738886708" duration="12532000" />
-      <workItem from="1742927054974" duration="5731000" />
+      <workItem from="1742927054974" duration="6322000" />
+      <workItem from="1743004288486" duration="1394000" />
     </task>
     <servers />
   </component>
@@ -79,5 +81,6 @@
     <SUITE FILE_PATH="coverage/divide_and_conquer$strassen_matrix.coverage" NAME="strassen-matrix Coverage Results" MODIFIED="1742760291510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
     <SUITE FILE_PATH="coverage/divide_and_conquer$Median.coverage" NAME="Median Coverage Results" MODIFIED="1742929481824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
     <SUITE FILE_PATH="coverage/divide_and_conquer$Majority.coverage" NAME="Majority Coverage Results" MODIFIED="1742759182414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
+    <SUITE FILE_PATH="coverage/divide_and_conquer$Maximum_Product.coverage" NAME="Maximum-Product Coverage Results" MODIFIED="1743005689106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW" />
   </component>
 </project>
