@@ -1,3 +1,6 @@
+
+
+
 def find_majority(arry, number):
     if len(arry) <= 1:
         if arry[0] == number:
@@ -13,14 +16,20 @@ def find_majority(arry, number):
     right_count = find_majority(right_subarry, number)
     return left_count + right_count
 
-
-arry = list(map(int, input().split()))
-
+#arry = list(map(int, input().split()))
+arry=[]
+while True:
+    try:
+        line = input().strip()
+        if not line:
+            break
+        arry.extend(map(int, line.split()))
+    except EOFError:
+        break
 majority = 0
 visited = []
 num = 0
 for i in arry:
-
     if i not in visited:
         visited.append(i)
         n = find_majority(arry, i)
